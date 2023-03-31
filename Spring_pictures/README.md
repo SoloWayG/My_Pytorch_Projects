@@ -4,6 +4,8 @@
 
 Основным заданием будет обучить классификатор на основе сверточных сетей, чтобы научиться отличать всех жителей Спрингфилда.
 
+![image](https://user-images.githubusercontent.com/113540469/229106474-48845d54-2fa8-4ebc-b962-5cb1706f6df7.png)
+
 # Ищите меня в лидербордах)
 
 https://www.kaggle.com/competitions/journey-springfield/leaderboard
