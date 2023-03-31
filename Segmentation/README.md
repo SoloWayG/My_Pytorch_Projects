@@ -1,2 +1,23 @@
-![image](https://user-images.githubusercontent.com/113540469/229102062-1a62a707-2a5f-4efc-bac4-73e13ee1325e.png)
+# Описание проекта:
+
+Данные проект является самостоятельной работой от DLS по Семантической сегментации двух типов поражений кожи: меланом и родинок. В данном задании необходимо имплементировать сверточные нейронные сети для сегментации SegNet и U-Net на базе Pytorch.
+
+![image](https://user-images.githubusercontent.com/113540469/229103792-b3c14021-b3d6-4d91-b45c-74df79589ea8.png)
+
+# Так же в задании проведено исследование:
+Рассмотренные несколько вариантов U-Net с разными подходами для кодирования и декодирования изображений. А так же анализ вариантов Loss-функций для задачи сегментации
+
+![image](https://user-images.githubusercontent.com/113540469/229103964-67d30799-17b7-4021-8f87-de3fb6e84ef4.png)
+
+
+#SegNet
+
+![image](https://user-images.githubusercontent.com/113540469/229103553-10e53bc7-7792-4b1e-a5ac-c681ee7a6342.png)
+
+#U-Net
+
+![image](https://user-images.githubusercontent.com/113540469/229103519-baad8463-e1c5-4cf7-9f46-fd249a2f928d.png)
+
+
+
 
