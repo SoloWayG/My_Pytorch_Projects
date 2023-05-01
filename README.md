@@ -3,6 +3,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Классификация изображений](Spring_pictures)|Применение сверточных нейронных сетей для классификации изображений|*Python, Pandas, Pytorch, PIL, Seaborn*|
-|[Семантическая сегментация](Segmentation)|Сегментация родинок и меланом на снимках при помощи CNN|*Python, Pandas, Pytorch, Skimage, Matplotlib*|
-|[СР по CNN](DLS_CNN_lesson)|Введение в сверточные нейронные сети|*Python, Pandas, Pytorch, Matplotlib*|
+|[Классификация изображений](Spring_pictures)|Применение сверточных нейронных сетей для классификации изображений|*Python, Pandas,Numpy, Pytorch, PIL, Seaborn*|
+|[Кредитный скорринг](Credit_scoring)|Решение соревнования по кредитному скоррингу, используя ансамбль rnn|*Python, Numpy, Pandas, Pytorch, Sklearn, Pickle, Matplotlib*|
+|[Семантическая сегментация](Segmentation)|Сегментация родинок и меланом на снимках при помощи CNN|*Python, Pandas,Numpy, Pytorch, Skimage, Matplotlib*|
+|[СР по CNN](DLS_CNN_lesson)|Введение в сверточные нейронные сети|*Python, Numpy,Pandas, Pytorch, Matplotlib*|
