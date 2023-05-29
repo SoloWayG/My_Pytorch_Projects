@@ -18,3 +18,5 @@
 
 Пример [4,4,8.9]
 ![image](https://github.com/SoloWayG/My_Pytorch_Projects/assets/113540469/991d3754-d7cf-4c06-821d-24d46fc0d9be)
+
+Reference : https://ijdykeman.github.io/ml/2016/12/21/cvae.html
